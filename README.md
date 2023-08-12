@@ -1,5 +1,5 @@
-### Hi, I'm Devin, an IT Professional
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+
+<h1>Hi, I'm Devin, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
