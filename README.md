@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Devin, an <a href="www.linkedin.com/in/DevinLanouette">IT Professional</a>☺</h1>
+<h1>Hi, I'm Devin, an <a href="https://linkedin.com/in/DevinLanouette">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
