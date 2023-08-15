@@ -18,5 +18,5 @@
 
 
 
-[linkedin]: www.linkedin.com/in/devin-lanouette-639676285
+[linkedin]: https://linkedin.com/in/devin-lanouette-639676285
 
